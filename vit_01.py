@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Oct  9 10:34:43 2021
-
+This is a study with https://github.com/lucidrains/vit-pytorch.
 @author: user
 """
 import torch
